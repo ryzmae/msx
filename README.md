@@ -23,3 +23,5 @@ console.log(MSX.stringify(1)); // 1.00ms
 ```
 
 For more information on how to use the `msxlib` package, please refer to the [documentation](https://npmjs.com/package/msxlib).
+
+**NOTE: doesn't work with javascript only typescript at the moment**

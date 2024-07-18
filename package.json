@@ -1,6 +1,6 @@
 {
   "name": "msxlib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A minmalistic ms conversion library",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -27,8 +27,5 @@
     "ts-jest": "^29.2.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.3"
-  },
-  "dependencies": {
-    "@changesets/cli": "^2.27.7"
   }
 }
